@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+fastapi
+uvicorn
+streamlit
+PyJWT
+pymysql
+pandas
+Pillow
+scikit-learn
+matplotlib
+numpy
